@@ -1,0 +1,25 @@
+{
+  "name": "food-api",
+  "version": "1.0.0",
+  "description": "food api ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kushalshit27/food-api.git"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "kushalshit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kushalshit27/food-api/issues"
+  },
+  "homepage": "https://github.com/kushalshit27/food-api#readme",
+  "dependencies": {
+    "hello-easy-log": "^0.1.2"
+  }
+}
